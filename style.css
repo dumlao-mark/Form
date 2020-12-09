@@ -1,0 +1,30 @@
+body{
+	height: 5000px;
+}
+
+body, html{
+	font-family: sans-serif;
+	padding: 0;
+}
+table{
+	margin-top: 2%;
+	background-color:rgba(241, 244, 244);
+	height: 400px;
+	color: black;
+}
+.BioData{
+	bottom: 500px;
+	text-align: center;
+}
+.Picture{
+	border-style: solid;
+}
+tr, td{
+	padding: 5px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+p{
+	font-size: 18px;
+	font-weight: bold;
+}
